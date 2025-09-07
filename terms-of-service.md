@@ -20,7 +20,7 @@ These Terms govern your use of QAchecklist.ai (“the App”). By installing or 
 - The total liability under these Terms is limited to the fees (if any) paid for the App during the preceding twelve months.  
 
 ## Data Processing
-- The App processes Jira issue data as described in the [Privacy Policy](https://valeria20.github.io/qa-checklist-ai-docs/privacy-policy).  
+- The App processes Jira issue data as described in the [Privacy Policy](https://valeria20.github.io/qa-checklist-ai-docs/privacy-policy).   
 - Users are responsible for ensuring that no sensitive or regulated personal data is entered into issues unless compliant with their organization’s policies.  
 
 ## Termination
