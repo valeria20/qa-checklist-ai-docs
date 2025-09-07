@@ -1,6 +1,6 @@
 # Privacy Policy for QAchecklist.ai
 
-Last updated: September 2025_09_07
+Last updated: September 7, 2025
 
 QAchecklist.ai (“the App”) respects your privacy. This Privacy Policy explains what information the App processes, how it is used, and how it is safeguarded.  
 
