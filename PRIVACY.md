@@ -34,5 +34,5 @@ QAchecklist.ai (“the App”) respects your privacy. This Privacy Policy explai
 ## Contact
 If you have questions about this Privacy Policy, contact:  
 
-**[Valeryia Sholamava]**  
-Email: [sholomova96@gmail.com]
+**Valeryia Sholamava**  
+Email: sholomova96@gmail.com
