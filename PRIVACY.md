@@ -29,7 +29,7 @@ QAchecklist.ai (“the App”) respects your privacy. This Privacy Policy explai
 
 ## User Control
 - Users control what information is entered into Jira issues.  
-- Users may remove generated checklists by using the “Clear saved checklist” function in the App.  
+- Users may remove generated checklists by using the “Clear” function in the App.  
 
 ## Contact
 If you have questions about this Privacy Policy, contact:  
