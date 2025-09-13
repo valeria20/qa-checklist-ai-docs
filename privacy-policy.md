@@ -1,8 +1,8 @@
-# Privacy Policy for QAchecklist.ai
+# Privacy Policy for Smart QA Checklist for Jira
 
-Last updated: September 7, 2025
+Last updated: September 13, 2025
 
-QAchecklist.ai (“the App”) respects your privacy. This Privacy Policy explains what information the App processes, how it is used, and how it is safeguarded.  
+Smart QA Checklist for Jira (the “App”), developed and maintained by QAchecklist.ai (the “Vendor”), respects your privacy. This Privacy Policy explains what information the App processes, how it is used, and how it is safeguarded.  
 
 ## Information Processed
 - The App accesses Jira issue content (such as issue summary and description) to generate quality-assurance checklists.  
@@ -11,13 +11,13 @@ QAchecklist.ai (“the App”) respects your privacy. This Privacy Policy explai
 
 ## Storage
 - Generated checklists are stored in Atlassian’s [App Storage](https://developer.atlassian.com/platform/forge/storage/) service, which is hosted inside Atlassian’s cloud infrastructure and bound to the customer’s site.  
-- No issue content, personal data, or checklists are stored on external servers controlled by the developer.  
+- No issue content, personal data, or checklists are stored on external servers controlled by the Vendor.  
 - The App does not maintain any independent database outside of Atlassian’s platform.  
 
 ## Data Sharing
 - For checklist generation, issue content (summary and description) is securely transmitted to the OpenAI API service. This is used only to produce the requested output.  
 - No other third parties receive any data.  
-- The developer does not sell, share, or use any personal data for marketing or profiling.  
+- The Vendor does not sell, share, or use any personal data for marketing or profiling.  
 
 ## Retention
 - Data is retained only in Atlassian App Storage for as long as the checklist is needed for the issue.  
