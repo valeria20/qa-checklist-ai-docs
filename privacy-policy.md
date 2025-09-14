@@ -1,8 +1,8 @@
-# Privacy Policy for Smart QA Checklist for Jira
+# Privacy Policy for QA Checklist AI for Jira
 
-Last updated: September 13, 2025
+Last updated: September 14, 2025
 
-Smart QA Checklist for Jira (the “App”), developed and maintained by Valeryia Sholamava (the “Vendor”), respects your privacy. This Privacy Policy explains what information the App processes, how it is used, and how it is safeguarded.  
+QA Checklist AI for Jira (the “App”), developed and maintained by Valeryia Sholamava (the “Vendor”), respects your privacy. This Privacy Policy explains what information the App processes, how it is used, and how it is safeguarded.  
 
 ## Information Processed
 - The App accesses Jira issue content (such as issue summary and description) to generate quality-assurance checklists.  
