@@ -1,8 +1,3 @@
----
-layout: default
-title: Security Policy
----
-
 # QA Checklist AI for Jira – Documentation
 
 ## Overview
