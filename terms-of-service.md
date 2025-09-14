@@ -1,8 +1,8 @@
-# Terms of Service for Smart QA Checklist for Jira
+# Terms of Service for QA Checklist AI for Jira
 
-Last updated: September 13, 2025
+Last updated: September 14, 2025
 
-These Terms govern your use of Smart QA Checklist for Jira (the “App”), developed and maintained by Valeryia Sholamava (the “Vendor”). By installing or using the App, you agree to these Terms.  
+These Terms govern your use of QA Checklist AI for Jira (the “App”), developed and maintained by Valeryia Sholamava (the “Vendor”). By installing or using the App, you agree to these Terms.  
 
 ## License
 - The App is licensed, not sold. You are granted a limited, non-exclusive, non-transferable right to use the App within your Atlassian cloud instance.  
